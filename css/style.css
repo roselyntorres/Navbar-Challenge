@@ -1,0 +1,17 @@
+.container-fluid {
+
+}
+
+.col {
+    text-align: left;
+    
+}
+.html{
+    background: rgb(250,245,137);
+background: linear-gradient(214deg, rgba(250,245,137,1) 0%, rgba(242,196,240,1) 100%);
+}
+
+.img{
+    align-items: center;
+ 
+}
