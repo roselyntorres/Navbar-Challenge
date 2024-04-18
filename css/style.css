@@ -4,9 +4,24 @@
 
 .col {
     text-align: left;
+    background: rgb(250,245,137);
+    background: linear-gradient(214deg, rgba(250,245,137,1) 0%, rgba(242,196,240,1) 100%);
     
 }
-.html{
+.container-fluid{
     background: rgb(250,245,137);
 background: linear-gradient(214deg, rgba(250,245,137,1) 0%, rgba(242,196,240,1) 100%);
+}
+.bg-primary {
+    background: rgb(250,245,137);
+    background: linear-gradient(214deg, rgba(250,245,137,1) 0%, rgba(242,196,240,1) 100%);
+}
+
+.center {
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        text-align: center;
+        font-size: 100px;
+      
 }
